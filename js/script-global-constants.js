@@ -1,0 +1,1 @@
+var websiteAddress = "http://localhost/friendsforever/";
